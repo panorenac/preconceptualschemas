@@ -15,4 +15,4 @@ Join our Group of pre-conceptual schemas:
 https://lnkd.in/e3WwzRw
 
 Subscribe to our channel of pre-conceptual schemas:
-https://lnkd.in/e8PrWRn
+https://www.youtube.com/@pre-conceptualschemas1089
