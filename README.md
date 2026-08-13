@@ -12,7 +12,7 @@ PCS template to VISIO.vss can be used in Lucidchart by selecting the option "mor
 ![image](https://github.com/user-attachments/assets/33c4889d-a6ab-4b87-b103-76600f1a51cc)
 
 Join our Group of pre-conceptual schemas:
-https://lnkd.in/e3WwzRw
+https://www.linkedin.com/groups/12461017/
 
 Subscribe to our channel of pre-conceptual schemas:
 https://www.youtube.com/@pre-conceptualschemas1089
