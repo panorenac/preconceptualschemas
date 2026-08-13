@@ -7,7 +7,7 @@ https://www.linkedin.com/groups/12461017/
 Subscribe to our channel of pre-conceptual schemas:
 https://www.youtube.com/@pre-conceptualschemas1089
 
-# Pre-conceptual schemas-Templates
+# PCS Templates
 PCS template to Draw.xml is a template can be used in the case tools Draw.io of Google and Visual Paradigm.
 PCS template to Draw.xml can be used by selecting the option "file" from the menu, selecting the option "open Library from" (selecting the location of downloaded file from the "device," "website" i.e., Google drive, GitHub, etc.), and selecting the button "open". Then, the template should appear in the "shapes" (symbol place on the left side of the main screen).
 
